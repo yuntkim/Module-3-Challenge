@@ -1,9 +1,10 @@
 # Module-3-Challenge
-Python Challenge
-Background
+##Python Challenge
+
+#Background
 It's time to put away the Excel sheet and enter the world of programming with Python. In this assignment, you'll use the concepts you've learned to complete two Python challenges, PyBank and PyPoll. Both tasks present a real-world situation where your newly developed Python scripting skills come in handy.
 
-Before You Begin
+#Before You Begin
 Before starting the assignment, be sure to complete the following steps:
 
 Create a new repository for this project called python-challenge. Do not add this homework assignment to an existing repository.
@@ -21,7 +22,8 @@ A Resources folder that contains the CSV files you used. Make sure that your scr
 An analysis folder that contains your text file that has the results from your analysis.
 
 Push these changes to GitHub or GitLab.
-PyBank Instructions
+
+#PyBank Instructions
 In this Challenge, you are tasked with creating a Python script to analyze the financial records of your company. You will be given a financial dataset called budget_data.csv. The dataset is composed of two columns: "Date" and "Profit/Losses".
 
 Your task is to create a Python script that analyzes the records to calculate each of the following values:
@@ -47,7 +49,7 @@ Greatest Increase in Profits: Aug-16 ($1862002)
 Greatest Decrease in Profits: Feb-14 ($-1825558)
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-PyPoll Instructions
+#PyPoll Instructions
 In this Challenge, you are tasked with helping a small, rural town modernize its vote-counting process.
 
 You will be given a set of poll data called election_data.csv. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". Your task is to create a Python script that analyzes the votes and calculates each of the following values:
@@ -76,7 +78,7 @@ Winner: Diana DeGette
 -------------------------
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
 
-Hints and Considerations
+#Hints and Considerations
 Consider what you've learned so far. You've learned how to import modules like csv. You’ve learned how to read and write files in various formats. You’ve learned how to store content in variables, lists, and dictionaries. You’ve learned how to iterate through basic data structures. And you’ve learned how to debug along the way. Using all that you've learned, try to break down your tasks into discrete mini-objectives.
 
 The datasets for these Challenges are quite large. This was done purposefully to showcase one of the limits of Excel-based analysis. As data analysts, our first instinct is often to go straight to Excel, but creating scripts in Python can provide us with more powerful options for handling big data.
